@@ -1,0 +1,5 @@
+- git add . -> thêm toàn bộ thay đổi(untracked changes) vào staged changes
+- branch( nhánh ) -> quick-fix, feat/auth-login, feat/create-post, optimize-ui-ux
+- git checkout -b `new-branch` -> git checkout -b optimize-ui-ux
+- git checkout `branch` -> git checkout master, git checkout optimize-ui-ux
+- git commit -m"message" -> git commit -m"optimize header and footer responsive"
