@@ -4,3 +4,7 @@
 - git checkout `branch` -> git checkout master, git checkout optimize-ui-ux
 - git commit -m"message" -> git commit -m"optimize header and footer responsive"
 - merge -> đưa code từ nhánh này vào nhánh khác ví dụ nhánh optimize-ui-ux vào nhánh master
+- Master -> git rebase master ->
+- git push
+- git pull
+- conflict code
